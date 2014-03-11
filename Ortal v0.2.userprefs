@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Activador.js">
+    <Files>
+      <File FileName="Assets/Proyectil.js" Line="25" Column="29" />
+      <File FileName="Assets/Arma.js" Line="1" Column="1" />
+      <File FileName="Assets/terreno aleatorio.js" Line="1" Column="1" />
+      <File FileName="Assets/enemycontroller.js" Line="1" Column="1" />
+      <File FileName="Assets/Proyectil2.js" Line="22" Column="3" />
+      <File FileName="Assets/PlayerController.js" Line="31" Column="2" />
+      <File FileName="Assets/Activador.js" Line="10" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

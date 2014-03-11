@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f4220011115e842d081ffc29063e2813
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cuboPrefab: {fileID: 100000, guid: a98f209327e37435d904ade7d3ee33f5, type: 2}
+  - salida: {fileID: 100000, guid: 544009048982c401f9fa28cf383c8317, type: 2}
+  - entrada: {fileID: 100000, guid: 4c474a87dc4a646fb952045a497934db, type: 2}
+  - enemy: {fileID: 100000, guid: 877dc4fa92fe44cf9b308a9fb0921fef, type: 2}
+  - jugador: {fileID: 100002, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
